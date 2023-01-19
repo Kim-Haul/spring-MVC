@@ -6,3 +6,4 @@
 ```
 
 <img src="./src/main/resources/static/images/table.png">
+<img src="./src/main/resources/static/images/table2.png">
